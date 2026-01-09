@@ -42,73 +42,73 @@ Learn how SOC analysts:
 - Work within real-world SOC workflows
 
 🧰 Core SOC Solutions
--Understand the tools SOC analysts use daily:
--SIEM (Security Information and Event Management)
--EDR (Endpoint Detection & Response)
--SOAR (Security Orchestration, Automation & Response)
+- Understand the tools SOC analysts use daily:
+- SIEM (Security Information and Event Management)
+- EDR (Endpoint Detection & Response)
+- SOAR (Security Orchestration, Automation & Response)
 
 🧩 Cyber Defence Frameworks
 Learn how frameworks help model attacker behavior and improve detection:
--Pyramid of Pain
--Cyber Kill Chain
--MITRE ATT&CK
+- Pyramid of Pain
+- Cyber Kill Chain
+- MITRE ATT&CK
 
 🎣 Phishing Analysis
 Learn to:
--Analyze phishing emails
--Identify malicious indicators
--Defend users against social engineering attacks
+- Analyze phishing emails
+- Identify malicious indicators
+- Defend users against social engineering attacks
 
 🌐 Network Traffic Analysis
--Hands-on network analysis using Wireshark to detect:
--Scanning
--Exploitation
--Suspicious traffic patterns
+- Hands-on network analysis using Wireshark to detect:
+- Scanning
+- Exploitation
+- Suspicious traffic patterns
 
 🔍 Network Security Monitoring
--Monitor network activity to detect:
--Man-in-the-Middle (MITM)
--Network discovery
--Data exfiltration
+- Monitor network activity to detect:
+- Man-in-the-Middle (MITM)
+- Network discovery
+- Data exfiltration
 
 🌍 Web Security Monitoring
--Defend and monitor web services by:
--Analyzing web logs
--Detecting malicious requests
--Investigating web-based attacks
+- Defend and monitor web services by:
+- Analyzing web logs
+- Detecting malicious requests
+- Investigating web-based attacks
 
 🪟 Windows Security Monitoring
--Learn how Windows logging works to detect:
--Credential abuse
--Lateral movement
--Privilege escalation
+- Learn how Windows logging works to detect:
+- Credential abuse
+- Lateral movement
+- Privilege escalation
 
 🐧 Linux Security Monitoring
--Analyze Linux logs to identify:
--Unauthorized access
--Persistence techniques
--Living-off-the-land attacks
+- Analyze Linux logs to identify:
+- Unauthorized access
+- Persistence techniques
+- Living-off-the-land attacks
 
 🦠 Malware Concepts for SOC
 Learn to:
--Identify malware types
--Understand attacker goals
--Analyze suspicious files
+- Identify malware types
+- Understand attacker goals
+- Analyze suspicious files
 
 🔎 Threat Analysis Tools
--Use threat intelligence to:
--Enrich alerts
--Investigate indicators
--Strengthen detection workflows
+- Use threat intelligence to:
+- Enrich alerts
+- Investigate indicators
+- Strengthen detection workflows
 
 📊 SIEM Triage for SOC
--Learn how SIEMs help:
--Detect early attack signs
--Correlate logs
--Build incident timelines
+- Learn how SIEMs help:
+- Detect early attack signs
+- Correlate logs
+- Build incident timelines
 
 🏁 SOC Level 1 Capstone
-Apply everything learned by:
-Investigating incidents
-Handling real artifacts
-Responding like a SOC analyst
+
+- Investigating incidents
+- Handling real artifacts
+- Responding like a SOC analyst
