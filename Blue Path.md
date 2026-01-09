@@ -36,10 +36,10 @@ Rooms
  
 🏢 SOC Team Internals
 Learn how SOC analysts:
--Triage alerts
--Classify incidents
--Escalate threats
--Work within real-world SOC workflows
+- Triage alerts
+- Classify incidents
+- Escalate threats
+- Work within real-world SOC workflows
 
 🧰 Core SOC Solutions
 -Understand the tools SOC analysts use daily:
