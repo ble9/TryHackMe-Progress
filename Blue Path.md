@@ -13,8 +13,8 @@ The Blue Team focuses on defending systems against cyber threats. This path cove
 📑 Table of Contents
 | Topic                                                           | Rooms | Completed |
 | --------------------------------------------------------------- | :---: | :-------: |
-| **[Blue Team Introduction](#blue-team-introduction)**           |   4   |     ⬜     |
-| **[SOC Team Internals](#soc-team-internals)**                   |   5   |     ⬜     |
+| **[Blue Team Introduction](#blue-team-introduction)**           |   4   |     2     |
+| **[SOC Team Internals](#soc-team-internals)**                   |   5   |     3     |
 | **[Core SOC Solutions](#core-soc-solutions)**                   |   —   |     ⬜     |
 | **[Cyber Defence Frameworks](#cyber-defence-frameworks)**       |   —   |     ⬜     |
 | **[Phishing Analysis](#phishing-analysis)**                     |   —   |     ⬜     |
